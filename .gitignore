@@ -10,6 +10,8 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+.travis.yml
+src/test
 
 #
 # IntelliJ
@@ -25,3 +27,14 @@ buildNumber.properties
 .classpath
 .project
 .vscode/
+.editorconfig
+
+#
+# System
+#
+.bashrc
+
+#
+# git
+#
+.gitattributes
