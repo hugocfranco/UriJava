@@ -11,9 +11,8 @@ public class U1238 {
     public static void main(String[] args) throws IOException {
 
         Scanner lerString = new Scanner(System.in);
-        Scanner lerInteiro = new Scanner(System.in);
 
-        int numeroContador = lerInteiro.nextInt();
+        int numeroContador = Integer.parseInt(lerString.nextLine());
 
         for (int i = 0; i < numeroContador; i++) {
 
@@ -50,7 +49,6 @@ public class U1238 {
             }
         }
 
-        lerInteiro.close();
         lerString.close();
     }
 }
