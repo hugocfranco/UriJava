@@ -4,11 +4,11 @@
 
 ### Resolvidos até agora
 
-| Iniciante | String | AD-HOC |
-|:-------------------------------------------------------------------------:|:-------------:|:--------:|
-| [**1001**](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) | [**1234**](https://www.urionlinejudge.com.br/judge/pt/problems/view/1234) | [**1103**](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) |
+| Iniciante | String | AD-HOC | BitWise|
+|:-------------------------------------------------------------------------:|:-------------:|:--------:|:-------:|
+| [**1001**](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) | [**1234**](https://www.urionlinejudge.com.br/judge/pt/problems/view/1234) |[**1103**](https://www.urionlinejudge.com.br/judge/pt/problems/view/1103) | [**2222**](https://www.urionlinejudge.com.br/judge/pt/problems/view/2222) |
 | [**1002**](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) | [**1238**](https://www.urionlinejudge.com.br/judge/pt/problems/view/1238) |
-| [**1003**](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003) |   |    |
+| [**1003**](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003) | [**1168**](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168)  |    |  
 | [**1004**](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004) |   |    |
 | [**1019**](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019) |   |    |
 | [**1036**](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036) |   |    |
